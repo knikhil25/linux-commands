@@ -6,3 +6,7 @@ sudo shutdown
 sudo apt install sl
 ### This will make the train appear on the screen
 sl
+### This will install a cow
+sudo apt install cowsay
+###  This will install anothor cow(you have to try it! Then only you will understand)
+sudo apt install xcowsay
