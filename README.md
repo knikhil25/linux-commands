@@ -10,5 +10,7 @@ sudo apt install sl
 sl
 ### This will install a cow
 sudo apt install cowsay
-###  This will install anothor cow(you have to try it! Then only you will understand)
+###  This will install another cow(you have to try it! Then only you will understand)
 sudo apt install xcowsay
+### This will the cow not the another cow... the cow it will say Hi( You can do other things with this)
+cowsa Hi
