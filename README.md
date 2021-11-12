@@ -14,3 +14,5 @@ sudo apt install cowsay
 sudo apt install xcowsay
 ### This will the cow not the another cow... the cow it will say Hi( You can do other things with this)
 cowsay Hi
+### This will make the other cow say Hi ( Same thing above .You can do other things with this)
+xcowsay hi
