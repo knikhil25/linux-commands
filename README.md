@@ -1,4 +1,4 @@
-# linux-commands
+# linux-commands of raspberry pi 4 model B      rapberry pi 400
 This contains all my linux commands
 ### This will shutdown the OS
 sudo shutdown 
@@ -16,3 +16,5 @@ sudo apt install xcowsay
 cowsay Hi
 ### This will make the other cow say Hi ( Same thing above .You can do other things with this)
 xcowsay hi
+### Say who am I (Look at what it says!)
+whoami
