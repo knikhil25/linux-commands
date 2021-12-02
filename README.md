@@ -1,4 +1,4 @@
-# linux-commands of raspberry pi 4 model B      rapberry pi 400                     ubuntu oporating systum
+# linux-commands of raspberry pi 4 model B      rapberry pi 400                     ubuntu oporating system
 This contains all my linux commands
 ### This will shutdown the OS
 sudo shutdown 
