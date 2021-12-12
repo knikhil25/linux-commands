@@ -18,3 +18,14 @@ cowsay Hi
 xcowsay hi
 ### Say who am I (Look at what it says!)
 whoami
+### This will remove all those trains and cows
+sudo apt remove sl
+sudo apt remove cowsay
+sudo apt remove xcowsay
+### This will list all the files in your folder
+ls
+### This will make a new folder suppose it is my name
+mkdir nikhil
+### In nikhil make another folder if you want to name=github
+cd nikhil
+mkdir github                                                                            (like that you can go deeper and deeper)
